@@ -1,1 +1,3 @@
-# kokoa-challenge
+# Sherlock Talk
+
+Kokoa challenge final assignment
